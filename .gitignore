@@ -1,0 +1,13 @@
+# Maven build output - regenerated every build, never commit it
+target/
+
+# Editor and IDE settings - personal to your machine
+.vscode/
+.idea/
+*.iml
+
+# Mac junk files
+.DS_Store
+
+# Logs
+*.log
